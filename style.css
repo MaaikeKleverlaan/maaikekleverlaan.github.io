@@ -312,8 +312,13 @@ a:active {
     width: 100%;
 }
 
-.img_info {
+.a_info {
 	width : 5%
+	
+}
+
+.img_info {
+	width : 100%
 }
 
 .info {
@@ -342,3 +347,12 @@ a:active {
 .img_author {
 	width: 10%;
 }
+
+.kratten_video {
+    display: inline-block;
+    margin-top: 13%;
+    width: 444px;
+    height: 364px;
+    margin-left: -2.5%;
+}
+
